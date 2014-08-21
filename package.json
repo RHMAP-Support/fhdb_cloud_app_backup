@@ -1,0 +1,14 @@
+{
+  "name": "fh-app",
+  "version": "0.1.0",
+  "dependencies" : { 
+    "fh-webapp" : "*",
+    "fh-nodeapp": "*",
+    "fh-api" : "*",
+    "libxmljs" : "0.8.1",
+    "express" : "3.3.4",
+    "xml2js" : "0.1.14",
+    "request" : "*",
+    "async" : "*"
+  }
+}
